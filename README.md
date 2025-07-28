@@ -1,0 +1,3 @@
+### 🐥 Movie recommendation using User X recent Tweet 
+## 👋 Hola, This is  my first project in data science as I am navigating through this project I will keep updatintg the readme file little bu little to keep it up to date till now we have reached till the splitting of data in to two categories train and test . 
+## And the further operation are still in progress to achieve our recommendation Model
