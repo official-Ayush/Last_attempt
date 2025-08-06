@@ -54,7 +54,7 @@ The project follows a two-stage pipeline to go from a user's thought to a final 
 ---
 
 ## 📁 Project Structure
-'''
+```
 Boring_Project1/
 |
 ├── app.py # The main Streamlit application script
@@ -71,7 +71,7 @@ Boring_Project1/
 ├── __init__.py
 ├── recommend_engine.py # Title recommendation logic
 └── tweet_nlp.py # Thought-to-genre NLP logic
-'''
+```
 ---
 
 ## ⚙️ Setup and Installation
