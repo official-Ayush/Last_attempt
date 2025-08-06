@@ -8,3 +8,6 @@ flask
 werkzeug
 matplotlib
 seaborn 
+streamlit
+transformers
+torch
