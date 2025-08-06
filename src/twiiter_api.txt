@@ -1,0 +1,6 @@
+def get_sample_tweets():
+    return [
+        "Just watched a mind-bending sci-fi movie!",
+        "I love intense drama and thrillers.",
+        "Looking for some light-hearted comedy."
+    ]

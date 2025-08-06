@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+nltk
+yfinance
+python-dotenv
+flask
+werkzeug
+matplotlib
+seaborn 
