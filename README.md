@@ -54,9 +54,9 @@ The project follows a two-stage pipeline to go from a user's thought to a final 
 ---
 
 ## 📁 Project Structure
-
+'''
 Boring_Project1/
-│
+|
 ├── app.py # The main Streamlit application script
 ├── train_recommender.py # Script to train and save the recommender model
 ├── README.md # Project documentation
@@ -68,11 +68,10 @@ Boring_Project1/
 │ └── genre_to_title_model.pkl # Saved recommender model
 │
 └── src/
-├── init.py
+├── __init__.py
 ├── recommend_engine.py # Title recommendation logic
 └── tweet_nlp.py # Thought-to-genre NLP logic
-
-
+'''
 ---
 
 ## ⚙️ Setup and Installation
